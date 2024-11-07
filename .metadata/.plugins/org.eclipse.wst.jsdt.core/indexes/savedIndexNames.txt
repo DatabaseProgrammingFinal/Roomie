@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\study_2024\dataBaseProgramming\Roomie\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2245305770.index
+2386356980.index
+3834125838.index
+3356684505.index
+3182173035.index
+2910859328.index
